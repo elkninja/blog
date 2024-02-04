@@ -1,3 +1,3 @@
 ---
-title: Putting the 'Query' in Inquiry
+title: Putting the Query in Inquiry
 ---
